@@ -1,6 +1,4 @@
-# belly-button-challenge
-
-# Interactive Web Visualizations
+# Belly-Button-Challenge
 This project showcases interactive web visualizations using the D3 library. It includes a horizontal bar chart, a bubble chart, and the display of sample metadata.
 
 # Usage
