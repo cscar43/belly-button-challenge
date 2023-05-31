@@ -11,3 +11,5 @@ Upon opening the index.html file in your web browser, you will see the interacti
 # Sample Metadata
 - The sample metadata, which includes demographic information of the individual, will be displayed below the charts.
 - Each key-value pair from the metadata JSON object will be shown.
+# Live github page
+-https://cscar43.github.io/belly-button-challenge/
